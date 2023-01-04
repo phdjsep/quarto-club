@@ -1,0 +1,41 @@
+project:
+  type: website
+  
+website: 
+  title: "quarto.club"
+  description: "A super gallery of quarto websites to help inspire and connect."
+  page-navigation: true
+  site-url: "https://quarto.club" 
+  repo-url: https://github.com/phdjsep/quarto-club 
+  repo-actions: []
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Sep Dadsetan, 2023"
+    
+  sidebar:
+    title: "quarto.club"
+    logo: "assets/img/quarto-club.svg"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://github.com/phdjsep/quarto-club
+        text: "Github"
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: about.qmd
+        text: About Quarto Club
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/styles/light.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: false
+
+execute:
+  freeze: auto

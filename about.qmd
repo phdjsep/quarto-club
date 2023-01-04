@@ -1,0 +1,14 @@
+---
+title: "About"
+about:
+  template: solana
+---
+
+Hi! Welcome to Quarto Club! We started this website to help showcase the many amazing websites that can be created using [Quarto](https://www.quarto.org). Feel free to look around and get inspired!
+
+## How to add your site to the club?
+
+TBD
+
+
+

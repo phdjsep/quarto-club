@@ -1,0 +1,21 @@
+---
+pagetitle: "Gallery"
+format:
+  html:
+    toc: false
+search: true
+execute:
+  echo: false
+listing:
+  - id: gallery
+    template: gallery.ejs
+    contents: gallery.yml
+    sort-ui: true
+    filter-ui: true
+    page-size: 5
+description: |
+  A gallery of example documents, websites, books, and presentations created with Quarto.
+---
+
+::: {#gallery}
+:::
