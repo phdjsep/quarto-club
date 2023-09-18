@@ -8,6 +8,7 @@ website:
   site-url: "https://quarto.club" 
   repo-url: https://github.com/phdjsep/quarto-club 
   repo-actions: []
+  google-analytics: "G-YTYTBDF54G"
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
