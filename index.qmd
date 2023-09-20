@@ -3,6 +3,7 @@ pagetitle: "Gallery"
 format:
   html:
     toc: false
+    page-layout: full
 search: true
 execute:
   echo: false

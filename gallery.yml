@@ -1,7 +1,5 @@
 
 - category: Websites
-  description: |
-    Publish collections of articles as a website
   tiles:
     - title: quarto.org 
       description: documentation
@@ -98,3 +96,10 @@
       href: https://hamel.dev
       code: https://github.com/hamelsmu/hamel/
       thumbnail: websites/websites-hamel.png
+- category: Templates
+  tiles:
+    - title: quarto.org 
+      description: documentation
+      href: https://quarto.org
+      code: https://github.com/quarto-dev/quarto-web/
+      thumbnail: templates/websites-quarto.png
