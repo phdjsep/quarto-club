@@ -1,0 +1,7 @@
+---
+title: "Resources"
+---
+
+Here are a list of helpful links and resources that go deeper into the amazing things you can do with Quarto.
+
+- [Starter Template Docs](https://quarto.org/docs/extensions/starter-templates.html)

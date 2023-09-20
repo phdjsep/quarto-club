@@ -13,21 +13,23 @@ website:
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     
-  # sidebar:
-  #   title: "quarto.club"
-  #   logo: "assets/img/quarto-club.svg"
-  #   pinned: true
-  #   align: center
-  #   tools: 
-  #     - icon: github
-  #       href: https://github.com/phdjsep/quarto-club
-  #       text: "Github"
-  #   style: "docked"
-  #   search: false
-  #   collapse-level: 1
-  #   contents:
-  #     - href: about.qmd
-  #       text: About Quarto Club
+  sidebar:
+    title: "quarto.club"
+    logo: "assets/img/quarto-club.svg"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://github.com/phdjsep/quarto-club
+        text: "Github"
+    style: "docked"
+    search: false
+    collapse-level: 1
+    contents:
+      - href: about.qmd
+        text: About Quarto Club
+      - href: resources.qmd
+        text: Resources
 
 format:
   html:
