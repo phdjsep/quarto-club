@@ -12,7 +12,7 @@ listing:
     template: gallery.ejs
     contents: gallery.yml
     sort-ui: false
-    filter-ui: true
+    filter-ui: false
     page-size: 5
 description: |
   A gallery of websites created with Quarto.
