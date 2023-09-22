@@ -99,3 +99,8 @@ tiles:
     href: https://quarto.org
     code: https://github.com/quarto-dev/quarto-web/
     thumbnail: templates/websites-quarto.png
+  - title: Javier Orraca-Deatcu 
+    categories: [website]
+    href: https://www.javierorracadeatcu.com/
+    code: https://github.com/JavOrraca/quarto-blog
+    thumbnail: websites/websites-javierorracadeatcu.png
