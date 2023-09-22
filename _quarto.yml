@@ -1,9 +1,13 @@
 project:
   type: website
+  preview:
+    port: 4200
+    browser: true
   
 website: 
-  title: "quarto.club"
+  title: "Quarto Club"
   description: "A super gallery of quarto websites to help inspire and connect."
+  back-to-top-navigation: true
   page-navigation: true
   site-url: "https://quarto.club" 
   repo-url: https://github.com/phdjsep/quarto-club 
@@ -14,8 +18,8 @@ website:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     
   sidebar:
-    title: "quarto.club"
-    logo: "assets/img/quarto-club.svg"
+    title: "Quarto Club"
+    logo: "assets/img/quarto-club.png"
     pinned: true
     align: center
     tools: 
@@ -33,8 +37,17 @@ website:
 
 format:
   html:
+    include-in-header:
+      - text: |
+          <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+          <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+          <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+          <link rel="manifest" href="/site.webmanifest">
+          <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+          <meta name="msapplication-TileColor" content="#da532c">
+          <meta name="theme-color" content="#ffffff">
     theme:
-      light: [cosmo, assets/styles/light.scss]
+      light: [cosmo, assets/styles/styles.scss]
     code-copy: true
     code-overflow: wrap
     toc: false

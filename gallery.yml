@@ -1,105 +1,101 @@
-
-- category: Websites
-  tiles:
-    - title: quarto.org 
-      description: documentation
-      href: https://quarto.org
-      code: https://github.com/quarto-dev/quarto-web/
-      thumbnail: websites/websites-quarto.png
-    - title: R-Manuals
-      description: documentation
-      href: https://rstudio.github.io/r-manuals/
-      code: https://github.com/rstudio/r-manualsweb
-      thumbnail: websites/websites-r-manuals.png
-    - title: Quarto tip a day
-      description: blog
-      href: https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/
-      code: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
-      thumbnail: websites/websites-quartotip.png
-    - title: nbdev
-      description: from fast.ai
-      href: https://nbdev.fast.ai/
-      code: https://github.com/fastai/nbdev
-      thumbnail: websites/websites-nbdev.png
-    - title: Practical Deep Learning
-      description: from fast.ai
-      href: https://course.fast.ai/
-      code: https://github.com/fastai/course22/
-      thumbnail: websites/websites-practical-deep-learning.png
-    - title: Beatriz Milz
-      description: personal website + blog
-      href: https://beamilz.com/
-      code: https://github.com/beatrizmilz/blog-en
-      thumbnail: websites/websites-bea-milz.png    
-    - title: Mike Mahoney
-      description: personal website + blog
-      href: https://www.mm218.dev/
-      code: https://github.com/mikemahoney218/mm218.dev
-      thumbnail: websites/websites-mike-mahoney.png
-    - title: ForBo7 // Salman Naqvi
-      description: personal site + blog + works
-      href: https://forbo7.github.io
-      code: https://github.com/ForBo7/forbo7.github.io
-      thumbnail: websites/websites-forbo7-landing.png
-    - title: LTM Data Workflows w/ Arrow
-      description: workshop
-      href: https://arrow-user2022.netlify.app/
-      code: https://github.com/djnavarro/arrow-user2022
-      thumbnail: websites/websites-arrow-workshop.png
-    - title: Julia Workshop for Data Science
-      description: course
-      href: https://crsl4.github.io/julia-workshop/
-      code: https://github.com/crsl4/julia-workshop
-      thumbnail: websites/websites-julia-workshop.png
-    - title: STA 210 - Regression Analysis
-      description: course
-      href: https://sta210-s22.github.io/website/
-      code: https://github.com/sta210-s22/website
-      thumbnail: websites/websites-sta210.png
-    - title: The MockUp
-      description: blog
-      href: https://themockup.blog/
-      code: https://github.com/jthomasmock/themockup-blog
-      thumbnail: websites/websites-mockup.png
-    - title: mrgsolve
-      description: documentation
-      href: https://mrgsolve.org/
-      code: https://github.com/metrumresearchgroup/mrgsolve
-      thumbnail: websites/websites-mrgsolve.png
-    - title: NASA & OpenScapes
-      description: website
-      href: https://nasa-openscapes.github.io/
-      code: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io
-      thumbnail: websites/websites-nasa-openscapes.png
-    - title: 2021 Cloud Hackathon
-      description: event
-      href: https://nasa-openscapes.github.io/2021-Cloud-Hackathon/
-      code: https://github.com/nasa-openscapes/2021-Cloud-Hackathon
-      thumbnail: websites/websites-2021-cloud-hackathon.png
-    - title: Making shareable docs with Quarto
-      description: tutorial
-      href: https://openscapes.github.io/quarto-website-tutorial/
-      code: https://github.com/openscapes/quarto-website-tutorial
-      thumbnail: websites/websites-opescapes-quarto-tutorial.png
-    - title: Data Science in a Box
-      description: course website
-      href: https://datasciencebox.org/
-      code: https://github.com/rstudio-education/datascience-box
-      thumbnail: websites/websites-datascienceinabox.png
-    - title: Wannabe Rstats-fu
-      description: blog
-      href: https://yutani.rbind.io/
-      code: https://github.com/rbind/yutani
-      thumbnail: websites/websites-wannabe-rstats-fu.png
-    - title: Hamel Husain's Professional Site
-      description: blog + notes
-      href: https://hamel.dev
-      code: https://github.com/hamelsmu/hamel/
-      thumbnail: websites/websites-hamel.png
-- category: Templates
-  tiles:
-    - title: quarto.org 
-      description: documentation
-      href: https://quarto.org
-      code: https://github.com/quarto-dev/quarto-web/
-      thumbnail: templates/websites-quarto.png
+tiles:
+  - title: quarto.org 
+    categories: [website]
+    href: https://quarto.org
+    code: https://github.com/quarto-dev/quarto-web/
+    thumbnail: websites/websites-quarto.png
+  - title: R-Manuals
+    categories: [website]
+    href: https://rstudio.github.io/r-manuals/
+    code: https://github.com/rstudio/r-manualsweb
+    thumbnail: websites/websites-r-manuals.png
+  - title: Quarto tip a day
+    categories: [website]
+    href: https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/
+    code: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
+    thumbnail: websites/websites-quartotip.png
+  - title: nbdev
+    categories: [website]
+    href: https://nbdev.fast.ai/
+    code: https://github.com/fastai/nbdev
+    thumbnail: websites/websites-nbdev.png
+  - title: Practical Deep Learning
+    categories: [website]
+    href: https://course.fast.ai/
+    code: https://github.com/fastai/course22/
+    thumbnail: websites/websites-practical-deep-learning.png
+  - title: Beatriz Milz
+    categories: [website]
+    href: https://beamilz.com/
+    code: https://github.com/beatrizmilz/blog-en
+    thumbnail: websites/websites-bea-milz.png    
+  - title: Mike Mahoney
+    categories: [website]
+    href: https://www.mm218.dev/
+    code: https://github.com/mikemahoney218/mm218.dev
+    thumbnail: websites/websites-mike-mahoney.png
+  - title: ForBo7 // Salman Naqvi
+    categories: [website]
+    href: https://forbo7.github.io
+    code: https://github.com/ForBo7/forbo7.github.io
+    thumbnail: websites/websites-forbo7-landing.png
+  - title: LTM Data Workflows w/ Arrow
+    categories: [website]
+    href: https://arrow-user2022.netlify.app/
+    code: https://github.com/djnavarro/arrow-user2022
+    thumbnail: websites/websites-arrow-workshop.png
+  - title: Julia Workshop for Data Science
+    categories: [website]
+    href: https://crsl4.github.io/julia-workshop/
+    code: https://github.com/crsl4/julia-workshop
+    thumbnail: websites/websites-julia-workshop.png
+  - title: STA 210 - Regression Analysis
+    categories: [website]
+    href: https://sta210-s22.github.io/website/
+    code: https://github.com/sta210-s22/website
+    thumbnail: websites/websites-sta210.png
+  - title: The MockUp
+    categories: [website]
+    href: https://themockup.blog/
+    code: https://github.com/jthomasmock/themockup-blog
+    thumbnail: websites/websites-mockup.png
+  - title: mrgsolve
+    categories: [website]
+    href: https://mrgsolve.org/
+    code: https://github.com/metrumresearchgroup/mrgsolve
+    thumbnail: websites/websites-mrgsolve.png
+  - title: NASA & OpenScapes
+    categories: [website]
+    href: https://nasa-openscapes.github.io/
+    code: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io
+    thumbnail: websites/websites-nasa-openscapes.png
+  - title: 2021 Cloud Hackathon
+    categories: [website]
+    href: https://nasa-openscapes.github.io/2021-Cloud-Hackathon/
+    code: https://github.com/nasa-openscapes/2021-Cloud-Hackathon
+    thumbnail: websites/websites-2021-cloud-hackathon.png
+  - title: Making shareable docs with Quarto
+    categories: [website]
+    href: https://openscapes.github.io/quarto-website-tutorial/
+    code: https://github.com/openscapes/quarto-website-tutorial
+    thumbnail: websites/websites-opescapes-quarto-tutorial.png
+  - title: Data Science in a Box
+    categories: [website]
+    href: https://datasciencebox.org/
+    code: https://github.com/rstudio-education/datascience-box
+    thumbnail: websites/websites-datascienceinabox.png
+  - title: Wannabe Rstats-fu
+    categories: [website]
+    href: https://yutani.rbind.io/
+    code: https://github.com/rbind/yutani
+    thumbnail: websites/websites-wannabe-rstats-fu.png
+  - title: Hamel Husain's Professional Site
+    categories: [website]
+    href: https://hamel.dev
+    code: https://github.com/hamelsmu/hamel/
+    thumbnail: websites/websites-hamel.png
+  - title: quarto.org 
+    categories: [template]
+    href: https://quarto.org
+    code: https://github.com/quarto-dev/quarto-web/
+    thumbnail: templates/websites-quarto.png

@@ -1,0 +1,87 @@
+/*-- scss:defaults --*/
+:root {
+    --animate-delay: 0.5s;
+}
+
+/*-- scss:rules --*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 400;
+}
+
+#quarto-sidebar {
+
+    div.sidebar-item-container:hover,
+    div.sidebar-item-container:focus {
+        color: #545555;
+    }
+
+    a.sidebar-item-text {
+        position: relative;
+        text-decoration: none;
+    }
+
+    a.sidebar-item-text::after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        transform: scaleX(0);
+        height: 2px;
+        bottom: 0;
+        left: 0;
+        background-color: #81A9D7;
+        transform-origin: bottom right;
+        transition: transform 0.25s ease-out;
+    }
+
+    a.sidebar-item-text:hover::after {
+        transform: scaleX(1);
+        transform-origin: bottom left;
+    }
+}
+
+// transition link hovers
+a {
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+}
+
+// shadow on card hover
+.card {
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+
+    &:hover {
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        transform: scale(1.01);
+    }
+}
+
+// customize colors for LinkedIn and Github tool links
+.sidebar-title .sidebar-tools-main {
+    a.quarto-navigation-tool[title="LinkedIn"]:hover {
+        color: #0077B5;
+    }
+
+    a.quarto-navigation-tool[title="Github"]:hover {
+        color: #000000;
+    }
+
+    display: inherit;
+}
+
+.footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    .nav-footer {
+        padding-top: 13px;
+    }
+}
