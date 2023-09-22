@@ -11,4 +11,3 @@ Hi! We started this website to help showcase the many amazing websites that can 
 3. Add your `.png` thumbnail to the subdirectory matching the category chosen from Step #2 and include a prefix to your `.png` including `category-`
     - For example: In the `websites` subdirectory you will find `websites-arrow-workshop.png`
 4. Submit a pull request!
-5. 
