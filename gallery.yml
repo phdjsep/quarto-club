@@ -104,3 +104,8 @@ tiles:
     href: https://rconsortium.github.io/submissions-wg/
     code: https://github.com/RConsortium/submissions-wg
     thumbnail: websites/websites-rsubmissions.png
+  - title: RABO Workshop
+    categories: [website]
+    href: https://rabo-workshop.netlify.app/
+    code: https://github.com/ryanpeek/rabo-workshop
+    thumbnail: websites/websites-rabo-workshop.png
