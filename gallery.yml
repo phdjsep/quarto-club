@@ -94,11 +94,6 @@ tiles:
     href: https://hamel.dev
     code: https://github.com/hamelsmu/hamel/
     thumbnail: websites/websites-hamel.png
-  - title: quarto.org 
-    categories: [template]
-    href: https://quarto.org
-    code: https://github.com/quarto-dev/quarto-web/
-    thumbnail: templates/websites-quarto.png
   - title: Javier Orraca-Deatcu 
     categories: [website]
     href: https://www.javierorracadeatcu.com/
