@@ -99,3 +99,7 @@ tiles:
     href: https://www.javierorracadeatcu.com/
     code: https://github.com/JavOrraca/quarto-blog
     thumbnail: websites/websites-javierorracadeatcu.png
+  - title: R Submissions Working Group
+    categories: [website]
+    href: https://rconsortium.github.io/submissions-wg/
+    code: https://github.com/RConsortium/submissions-wg
