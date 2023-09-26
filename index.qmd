@@ -1,5 +1,5 @@
 ---
-pagetitle: "Gallery"
+pagetitle: "Quarto Club"
 format:
   html:
     toc: false
