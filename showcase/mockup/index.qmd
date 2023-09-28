@@ -1,0 +1,10 @@
+---
+title: "The MockUp"
+image: websites-mockup.png
+alt: "The MockUp"
+href: https://themockup.blog/
+code: https://github.com/jthomasmock/themockup-blog
+categories:
+  - website
+  - personal
+---

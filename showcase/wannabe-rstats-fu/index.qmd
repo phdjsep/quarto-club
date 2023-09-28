@@ -1,0 +1,10 @@
+---
+title: "Wannabe Rstats-fu"
+image: websites-wannabe-rstats-fu.png
+alt: "Wannabe Rstats-fu"
+href: https://yutani.rbind.io/
+code: https://github.com/rbind/yutani
+categories:
+  - website
+  - personal
+---

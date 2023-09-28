@@ -1,0 +1,10 @@
+---
+title: "ForBo7 // Salman Naqvi"
+image: websites-forbo7-landing.png
+alt: "ForBo7 // Salman Naqvi"
+href: https://forbo7.github.io
+code: https://github.com/ForBo7/forbo7.github.io
+categories:
+  - website
+  - personal
+---

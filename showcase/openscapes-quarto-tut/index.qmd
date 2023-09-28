@@ -1,0 +1,10 @@
+---
+title: "Making shareable docs with Quarto"
+image: websites-opescapes-quarto-tutorial.png
+alt: "Making shareable docs with Quarto"
+href: https://openscapes.github.io/quarto-website-tutorial/
+code: https://github.com/openscapes/quarto-website-tutorial
+categories:
+  - website
+  - tutorial
+---

@@ -30,8 +30,8 @@ website:
     search: false
     collapse-level: 1
     contents:
-      - href: about.qmd
-        text: About Quarto Club
+      - href: contribute.qmd
+        text: How to Contribute
       - href: resources.qmd
         text: Resources
 

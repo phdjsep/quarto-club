@@ -1,0 +1,10 @@
+---
+title: "Julia Workshop for Data Science"
+image: websites-julia-workshop.png
+alt: "Julia Workshop for Data Science"
+href: https://crsl4.github.io/julia-workshop/
+code: https://github.com/crsl4/julia-workshop
+categories:
+  - website
+  - workshop
+---

@@ -1,0 +1,10 @@
+---
+title: "nbdev"
+image: websites-nbdev.png
+alt: "nbdev"
+href: https://nbdev.fast.ai/
+code: https://github.com/fastai/nbdev
+categories:
+  - website
+  - business
+---

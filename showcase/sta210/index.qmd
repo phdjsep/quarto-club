@@ -1,0 +1,10 @@
+---
+title: "STA 210 - Regression Analysis"
+image: websites-sta210.png
+alt: "STA 210 - Regression Analysis"
+href: https://sta210-s22.github.io/website/
+code: https://github.com/sta210-s22/website
+categories:
+  - website
+  - education
+---

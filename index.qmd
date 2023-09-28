@@ -1,5 +1,5 @@
 ---
-pagetitle: "Quarto Club"
+title: "Welcome to the club!"
 format:
   html:
     toc: false
@@ -8,20 +8,14 @@ search: false
 execute:
   echo: false
 listing:
-  - id: gallery
-    categories: false
-    template: gallery.ejs
-    contents: gallery.yml
-    sort-ui: false
-    filter-ui: false
-    page-size: 5
-description: |
-  A gallery of websites created with Quarto.
+  - id: showcase
+    contents: "showcase/**/index.qmd"
+    template: html/listing.ejs
+    categories: true
 ---
-
-## Welcome to the club!
 
 Hi! We started this website to help showcase the many amazing items that are being created by the community using [Quarto](https://www.quarto.org). Feel free to look around and get inspired!
 
-::: {#gallery}
+:::{#showcase}
 :::
+
