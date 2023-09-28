@@ -3,7 +3,7 @@ title: "Luke Morris"
 image: luke-morris-portfolio.png
 alt: "Luke Morris' portfolio website"
 href: https://lukesmorris.com
-code: https://github.com/morrisLuke/
+code: https://github.com/morrisLuke/morrisLuke.github.io
 categories:
   - website
   - personal
