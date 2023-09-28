@@ -1,0 +1,10 @@
+---
+title: "RABO Workshop"
+image: websites-rabo-workshop.png
+alt: "RABO Workshop"
+href: https://rabo-workshop.netlify.app/
+code: https://github.com/ryanpeek/rabo-workshop
+categories:
+  - website
+  - workshop
+---

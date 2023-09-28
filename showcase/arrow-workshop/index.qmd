@@ -1,0 +1,10 @@
+---
+title: "LTM Data Workflows w/ Arrow"
+image: websites-arrow-workshop.png
+alt: "LTM data workflows w/ arrow workshop"
+href: https://arrow-user2022.netlify.app/
+code: https://github.com/djnavarro/arrow-user2022
+categories:
+  - website
+  - workshop
+---

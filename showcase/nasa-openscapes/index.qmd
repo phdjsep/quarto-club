@@ -1,0 +1,10 @@
+---
+title: "NASA & OpenScapes"
+image: websites-nasa-openscapes.png
+alt: "NASA & OpenScapes"
+href: https://nasa-openscapes.github.io/
+code: https://github.com/NASA-Openscapes/NASA-Openscapes.github.io
+categories:
+  - website
+  - workshop
+---

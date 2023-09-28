@@ -1,0 +1,10 @@
+---
+title: "R-Manuals"
+image: websites-r-manuals.png
+alt: "R-Manuals"
+href: https://rstudio.github.io/r-manuals/
+code: https://github.com/rstudio/r-manualsweb
+categories:
+  - website
+  - documentation
+---

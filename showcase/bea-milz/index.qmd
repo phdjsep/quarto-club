@@ -1,0 +1,10 @@
+---
+title: "Beatriz Milz"
+image: websites-bea-milz.png
+alt: "Beatriz Milz website"
+href: https://beamilz.com/
+code: https://github.com/beatrizmilz/blog-en
+categories:
+  - website
+  - personal
+---

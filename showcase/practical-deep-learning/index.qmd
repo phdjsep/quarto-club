@@ -1,0 +1,10 @@
+---
+title: "Practical Deep Learning"
+image: websites-practical-deep-learning.png
+alt: "Practical Deep Learning"
+href: https://course.fast.ai/
+code: https://github.com/fastai/course22/
+categories:
+  - website
+  - education
+---

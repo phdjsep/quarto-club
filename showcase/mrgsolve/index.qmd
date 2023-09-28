@@ -1,0 +1,10 @@
+---
+title: "mrgsolve"
+image: websites-mrgsolve.png
+alt: "mrgsolve"
+href: https://mrgsolve.org/
+code: https://github.com/metrumresearchgroup/mrgsolve
+categories:
+  - website
+  - personal
+---

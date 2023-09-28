@@ -1,0 +1,10 @@
+---
+title: "Data Science in a Box"
+image: websites-datascienceinabox.png
+alt: "Data Science in a Box"
+href: https://datasciencebox.org/
+code: https://github.com/rstudio-education/datascience-box
+categories:
+  - website
+  - education
+---

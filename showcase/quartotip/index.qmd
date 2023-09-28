@@ -1,0 +1,11 @@
+---
+title: "Quarto tip a day"
+image: websites-quartotip.png
+alt: "Quarto tip a day"
+href: https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/
+code: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
+categories:
+  - website
+  - personal
+---
+

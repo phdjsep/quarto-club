@@ -1,0 +1,10 @@
+---
+title: "Javier Orraca-Deatcu "
+image: websites-javierorracadeatcu.png
+alt: "Javier Orraca-Deatcu "
+href: https://www.javierorracadeatcu.com/
+code: https://github.com/JavOrraca/quarto-blog
+categories:
+  - website
+  - personal
+---

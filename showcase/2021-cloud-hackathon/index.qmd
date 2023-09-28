@@ -1,0 +1,10 @@
+---
+title: "2021 Cloud Hackathon"
+image: websites-2021-cloud-hackathon.png
+alt: "2021 Cloud Hackathon website"
+href: https://nasa-openscapes.github.io/2021-Cloud-Hackathon/
+code: https://github.com/nasa-openscapes/2021-Cloud-Hackathon
+categories:
+  - website
+  - workshop
+---
