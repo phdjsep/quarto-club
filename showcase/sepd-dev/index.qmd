@@ -1,0 +1,10 @@
+---
+title: "Sep Dadsetan"
+image: websites-sepd-dev.png
+alt: "Sep Dadsetan"
+href: https://sepd.dev
+code: https://github.com/phdjsep/sepd-dev
+categories:
+  - website
+  - personal
+---
