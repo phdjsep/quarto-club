@@ -1,0 +1,10 @@
+---
+title: "tidymodels.org"
+image: websites-tidymodels.png
+alt: "tidymodels.org"
+href: https://tidymodels.org
+code: https://github.com/tidymodels/tidymodels.org
+categories:
+  - website
+  - documentation
+---
