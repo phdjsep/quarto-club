@@ -1,0 +1,10 @@
+---
+title: "Emil Hvitfeldt"
+image: websites-emil-hvitfeldt.png
+alt: "Emil Hvitfeldt"
+href: https://emilhvitfeldt.com/
+code: https://github.com/EmilHvitfeldt/emilhvitfeldt.com
+categories:
+  - website
+  - personal
+---
