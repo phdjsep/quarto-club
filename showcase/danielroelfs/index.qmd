@@ -1,0 +1,10 @@
+---
+title: "Daniel Roelfs"
+image: websites-danielroelfs.png
+alt: "Daniel Roelfs"
+href: https://danielroelfs.com
+code: https://github.com/danielroelfs/danielroelfs.com
+categories:
+  - website
+  - personal
+---
