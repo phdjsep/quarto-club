@@ -23,3 +23,10 @@ categories:
 ```
 
 5. Submit a pull request!
+
+
+## Notes
+
+#### 2023-10-07
+At the moment the url for the site is [quarto.club](quarto.club), but we're moving to qmdclub.com in order to adhere to the [Quarto Trademark Policy](https://quarto.org/trademark.html). Unfortunately, qmdclub.com was registered with Squarespace (who's taken over from Google Domains) and we've been having a poor experience with them, but we have to wait 60 days before we can transfer the name to another provider. We'll update this repo when we've made the switch.
+
