@@ -55,6 +55,11 @@ a {
     transition: 0.4s;
     -webkit-transition: 0.4s;
 
+    .card-img-top {
+        object-fit: fill;
+        height: 200px;
+    }
+
     &:hover {
         box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
         transform: scale(1.01);
