@@ -1,0 +1,11 @@
+---
+title: "Big & tiny spatial thoughts"
+image: btst.png
+alt: "Big & tiny spatial thoughts | Vincent Clemson"
+href: https://prncevince.io/posts
+code: https://github.com/prncevince/prncevince.io
+categories:
+  - geospatial
+  - personal
+  - website
+---
