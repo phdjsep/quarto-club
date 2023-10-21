@@ -1,0 +1,10 @@
+---
+title: "Jadey Ryan"
+image: websites-jadey-ryan.png
+alt: "Jadey Ryan"
+href: https://jadeyryan.com/
+code: https://github.com/jadeynryan/jadey_website
+categories:
+  - website
+  - personal
+---
