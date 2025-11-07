@@ -1,4 +1,4 @@
-# Welcome to Quarto Club!
+# Welcome to QMD Club!
 
 Hi! We started this website to help showcase the many amazing websites that can be created using [Quarto](https://quarto.org/). Feel free to look around and get inspired!
 
@@ -28,7 +28,7 @@ categories:
 ## Notes
 
 #### 2025-10-06
-It's been a while, but [qmdclub.com](qmdclub.com) is the active page where you can find all the awesome contributions.
+It's been a while, but [qmdclub.com](https://www.qmdclub.com) is the active page where you can find all the awesome contributions.
 
 #### 2023-10-07
 At the moment the url for the site is [quarto.club](quarto.club), but we're moving to [qmdclub.com](qmdclub.com) in order to adhere to the [Quarto Trademark Policy](https://quarto.org/trademark.html). Unfortunately, qmdclub.com was registered with Squarespace (who's taken over from Google Domains) and we've been having a poor experience with them, but we have to wait 60 days before we can transfer the name to another provider. We'll update this repo when we've made the switch.
