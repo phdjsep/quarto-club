@@ -3,3 +3,4 @@
 .DS_Store
 /.luarc.json
 /.firebase
+**/*.quarto_ipynb
