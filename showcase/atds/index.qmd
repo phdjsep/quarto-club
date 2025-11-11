@@ -1,0 +1,9 @@
+---
+title: "Astronomers to Data Scientists"
+image: atds.png
+alt: "Astronomers to Data Scientists Web Site"
+href: https://atds.space
+categories:
+  - website
+  - conference
+---
