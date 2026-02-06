@@ -26,6 +26,6 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: your-project-name
+          projectName: quarto-club
           directory: _site
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
